@@ -1,0 +1,11 @@
+{
+  "name": "bolier-react-webpack-sass",
+  "version": "1.0.0",
+  "description": "boiler plate for react w/webpack devServer and sass",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "wasabi805",
+  "license": "MIT"
+}
